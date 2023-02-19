@@ -1,0 +1,42 @@
+[
+    {
+        "name":{
+        "first": "Abduallah",
+        "last": "AL-Dawsari"
+        },
+        "Book":{
+        "roomNumber": 502,
+        "bookingDateFrom": "1/1/2020",
+        "bookingDateTo": "1/1/2020",
+        "paid": true,
+        "attended": true
+        }
+    },
+    {
+        "name":{
+            "first": "Abduallah",
+            "last": "AL-Dawsari"
+            },
+            "Book":{
+            "roomNumber": 502,
+            "bookingDateFrom": "1/1/2020",
+            "bookingDateTo": "1/1/2020",
+            "paid": true,
+            "attended": true
+            }
+    },
+    {
+        "name":{
+            "first": "Abduallah",
+            "last": "AL-Dawsari"
+            },
+            "Book":{
+            "roomNumber": 502,
+            "bookingDateFrom": "1/1/2020",
+            "bookingDateTo": "1/1/2020",
+            "paid": true,
+            "attended": true
+            }
+    }
+
+]
